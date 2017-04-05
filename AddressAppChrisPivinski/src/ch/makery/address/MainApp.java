@@ -69,7 +69,7 @@ public class MainApp extends Application {
         this.primaryStage.setTitle("AddressApp");
 
         // Set the application icon.
-        this.primaryStage.getIcons().add(new Image("file:resources/images/Star"));
+        this.primaryStage.getIcons().add(new Image("file:resources/images/Star.png"));
 
         initRootLayout();
 
